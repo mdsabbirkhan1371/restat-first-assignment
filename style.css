@@ -11,6 +11,9 @@ p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 /* first section area */
+.first{
+    margin-top:5%;
+}
 .first-section{
     display: flex;
     
@@ -122,4 +125,46 @@ height: 564.94px;
     width: 50%;
     margin-left:4%;
 }
+/* <!-- community section end--> */
+
+/* -------------success area  start------------*/
+.success-area{
+    margin-top: 2%;
+    padding: 4%;
+    
+    
+}
+
+.success{
+    display: flex;
+}
+#forback-ground{
+    background-color: blue;
+    color: white;
+    padding: 4%;
+    border-radius: 10px;
+}
+.success img{
+    width: 90%;
+    left: 328px;
+    top: 1176px;
+    margin-right: 20px;
+    border-radius: 10px;
+
+}
+.input{
+    padding: 10px;
+}
+/* <!-- community section end--> */
+
+
+/* --------footer-section-------------- */
+.footer-section{
+background-color: black;
+text-align: center;
+color: white;
+padding: 3%;
+border-radius: 5px;
+}
+/*---------------- end all----------------- */
                 
